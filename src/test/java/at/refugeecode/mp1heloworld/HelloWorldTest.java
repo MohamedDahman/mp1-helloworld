@@ -17,6 +17,6 @@ class HelloWorldTest {
     @Test
     void sayHelloWordl() {
         HelloWorld helloWorld = new HelloWorld();
-        Assert.assertEquals("Hello World", helloWorld.SayHelloWordl());
+        Assert.assertEquals("Hello  World", helloWorld.SayHelloWordl());
     }
 }
